@@ -4,32 +4,32 @@
 
 Réalisez un CV qui suit un canevas connu, par exemple :
 
-    - une page produit amazon (ou Sarenza, ou Pixmania, …)
-        => voir exemple CV1-amazon-Philippe_Dubost.png
-    - une page facebook
-        => voir exemple CV2-Facebook-augustin-duval.png
-    - une offre groupon
-        => voir exemple CV3--Groupon-guillaume-Dingli.png
-    - une page produit sur Apple
-    - une page linkedin
-    - une page ebay
-    - une fiche de jeux vidéo (par exemple sur jeuxvideo.com)
-    - la page d'un acteur ou d'un réalisateur sur IMDb
-    - une page d'artiste sur Deezer
-    - la fiche d'une série sur Beta-series
-    - un vol Ryanair
-    - une offre pour un domaine CenterParcs
-    - la page « à propos » d'Ethias
-    - l'annonce d'un programme sur rtbf.be
-    - un article sur le soir.be
-    - une petite annonce sur Immovlan ou Immoweb
+- une page produit amazon (ou Sarenza, ou Pixmania, …)
+    => voir exemple CV1-amazon-Philippe_Dubost.png
+- une page facebook
+    => voir exemple CV2-Facebook-augustin-duval.png
+- une offre groupon
+    => voir exemple CV3--Groupon-guillaume-Dingli.png
+- une page produit sur Apple
+- une page linkedin
+- une page ebay
+- une fiche de jeux vidéo (par exemple sur jeuxvideo.com)
+- la page d'un acteur ou d'un réalisateur sur IMDb
+- une page d'artiste sur Deezer
+- la fiche d'une série sur Beta-series
+- un vol Ryanair
+- une offre pour un domaine CenterParcs
+- la page « à propos » d'Ethias
+- l'annonce d'un programme sur rtbf.be
+- un article sur le soir.be
+- une petite annonce sur Immovlan ou Immoweb
 
 Le layout devra reproduire le design du site original
 
 Le HTML et le CSS devront être personnels et adaptés :
 
-    - HTML5 sémantique, valide, accessible, microdatas utiles
-    - CSS design élastique, une version moblile et une version desktop
+- HTML5 sémantique, valide, accessible, microdatas utiles
+- CSS design élastique, une version moblile et une version desktop
 
 
 ## Les consignes par d’anciens étudiants
@@ -60,7 +60,6 @@ Le CV a été notre premier projet pour le cours de Design Web. Le but était de
 Le but de l’exercice était de copier le canvas d’un site existant en y intégrant nos informations personnelles pour en faire notre CV. Il n’est pas question ici de copier le code et de modifier les informations. Il faut analyser le site, essayer de comprendre comment sont codés les différents éléments et enfin créer sont propre code et appliquer l’analyse préalable du site officiel pour que notre CV y ressemble comme 2 gouttes d’eau.
 
 
-
 ## Exemples
 
 ### Les 3 exemples de base
@@ -68,7 +67,6 @@ Le but de l’exercice était de copier le canvas d’un site existant en y int�
 - Fiche Amazon par Philippe Dubost
 - Facebook par Augustin Duval
 - Groupon par Guillaume Dingli
-
 
 ### Réalisations d’anciens étudiants :
 
