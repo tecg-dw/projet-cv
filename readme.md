@@ -6,14 +6,11 @@ Réalisez un CV qui suit un canevas connu, par exemple :
 
 - une page produit amazon (ou Sarenza, ou Pixmania, …)
     ![Le CV Amazon de Philippe Dubost](./CV1-amazon-Philippe_Dubost.png)
-    => voir exemple CV1-amazon-Philippe_Dubost.png
     
 - une page facebook
     ![Le CV Facebook de Augustin Duval](./CV2-Facebook-augustin-duval.png)
-    => voir exemple CV2-Facebook-augustin-duval.png
 - une offre groupon
-    ![Le CV Groupon de Guillaume Dingli](./CV3-Groupon-guillaume-Dingli.png)
-    => voir exemple CV3-Groupon-guillaume-Dingli.png
+    ![Le CV Groupon de Guillaume Dingli](./CV3-Groupon-guillaume-Dingli.jpg)
 - une page produit sur Apple
 - une page linkedin
 - une page ebay
