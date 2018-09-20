@@ -33,7 +33,19 @@ Le HTML et le CSS devront être personnels et adaptés :
 - CSS responsive (design élastique, une version moblile et une version desktop).
 
 
-## Les consignes par d’anciens étudiants
+## Les consignes et réalisations par d’anciens étudiants
+
+### Selon Jimmy Letecheur (2015-2016)
+
+J'ai du réaliser pour le cours de design web un CV sur base d'un site web existant. J'ai choisi le célèbre Can I Use.
+
+![Le CV Caniuse de Jimmy Letecheur](./CV4-Caniuse-Jimmy-Letecheur.png)
+
+- [le portfolio de Jimmy Letecheur](http://letecheur.me) 
+- [la page du pojet sur son portfolio](https://letecheur.me/cv-can-i-use/)
+- CV : en local
+- [CanIUse, le site original dont est inspiré le CV](https://caniuse.com/)
+- [PFE](http://ecoleinfographie.be). Vous pouvez aussi tester l’interface d’administration en vous rendant à l’adresse suivante et en vous créant un compte : http://ecoleinfographie.be/admin
 
 ### Selon Pauline Viroux
 
@@ -62,12 +74,6 @@ Le but de l’exercice était de copier le canvas d’un site existant en y int�
 
 ## Exemples
 
-### Les 3 exemples de base
-
-- Fiche Amazon par Philippe Dubost
-- Facebook par Augustin Duval
-- Groupon par Guillaume Dingli
-
 ### Réalisations d’anciens étudiants :
 
 ### 2017-2018
@@ -94,13 +100,6 @@ Le but de l’exercice était de copier le canvas d’un site existant en y int�
 ### 2015-2016 :
 
 #### TB
-
-- Jimmy Letecheur
-    - [Portfolio de Jimmy Letecheur](http://letecheur.me) 
-    - [page du pojet sur portfolio](https://letecheur.me/cv-can-i-use/)
-    - CV : en local
-    - [CanIUse, site original dont est inspiré le CV](https://caniuse.com/)
-    - [PFE](http://ecoleinfographie.be). Vous pouvez aussi tester l’interface d’administration en vous rendant à l’adresse suivante et en vous créant un compte : http://ecoleinfographie.be/admin
 
 #### Autres 
 
