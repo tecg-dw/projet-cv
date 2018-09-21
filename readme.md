@@ -6,7 +6,6 @@ Réalisez un CV qui suit un canevas connu, par exemple :
 
 - une page produit amazon (ou Sarenza, ou Pixmania, …)
     ![Le CV Amazon de Philippe Dubost](./CV1-amazon-Philippe_Dubost.png)
-    
 - une page facebook
     ![Le CV Facebook de Augustin Duval](./CV2-Facebook-augustin-duval.png)
 - une offre groupon
@@ -39,23 +38,62 @@ Le HTML et le CSS devront être personnels et adaptés :
 
 J'ai du réaliser pour le cours de design web un CV sur base d'un site web existant. J'ai choisi le célèbre Can I Use.
 
-![Le CV Caniuse de Jimmy Letecheur](./CV4-Caniuse-Jimmy-Letecheur.png)
+![Le site original de CanIUse](./CV4-Caniuse-original.png)
+![Le CV CanIUse de Jimmy Letecheur](./CV4-Caniuse-Jimmy-Letecheur.png)
 
-- [le portfolio de Jimmy Letecheur](http://letecheur.me) 
-- [la page du pojet sur son portfolio](https://letecheur.me/cv-can-i-use/)
-- CV : en local
 - [CanIUse, le site original dont est inspiré le CV](https://caniuse.com/)
-- [PFE](http://ecoleinfographie.be). Vous pouvez aussi tester l’interface d’administration en vous rendant à l’adresse suivante et en vous créant un compte : http://ecoleinfographie.be/admin
+- [le CV](https://letecheur.me/projets/caniuse/)
+- [la page du pojet sur son portfolio](https://letecheur.me/cv-can-i-use/)
+- [le portfolio de Jimmy](http://letecheur.me) 
+- [Le PFE de Jimmy](http://ecoleinfographie.be). Vous pouvez aussi tester l’interface d’administration en vous rendant à l’adresse suivante et en vous créant un compte : http://ecoleinfographie.be/admin
+
+### Selon Stéphanie Cloutier (2016-2017)
+
+Le CV a été notre premier projet pour le cours de Design Web. Le but était de copier la page d’un site web, pour ma part celle d’une fiche de Pokémon du site du même nom. Par la suite, nous devions remplir la page avec nos informations comme s’il s’agissait de notre CV.
+
+![Le site original de Pokemon](./CV5-Pokemon-original.png)
+![Le CV Pokemon de Stéphanie Cloutier](./CV5-Pokemon-Stephanie-Cloutier.png)
+
+- [Pokemon, le site original dont est inspiré le CV](https://www.pokemon.com/fr/pokedex/herbizarre)
+- [le CV](http://stephanie.cloutier.pro/cv/)
+- [la page du pojet sur son portfolio](http://stephanie.cloutier.pro/project/cv/) 
+- [le portfolio de Stéphanie](http://stephanie.cloutier.pro)
+
+### Selon Képhren Simonis (2016-2017)
+
+Le but de l’exercice était de copier le canvas d’un site existant en y intégrant nos informations personnelles pour en faire notre CV. Il n’est pas question ici de copier le code et de modifier les informations. Il faut analyser le site, essayer de comprendre comment sont codés les différents éléments et enfin créer sont propre code et appliquer l’analyse préalable du site officiel pour que notre CV y ressemble comme 2 gouttes d’eau.
+
+
+
+- Képhren Simonis
+    - [Portfolio de Képhren Simonis](http://hepl01.cblue.be/~user19/dw/portfoliowp)
+    - [page du pojet sur portfolio](http://hepl01.cblue.be/~user19/dw/portfoliowp/projets/cv-skype/)
+    - [CV](http://hepl01.cblue.be/~user19/dw/cv/)
+    - [Skype, site original dont est inspiré le CV](https://www.skype.com/fr/) N.B. : il a changé…
+
+### Selon Charlotte Toussaint (2017-2018)
+
+- Charlotte Toussaint
+    - [CV](http://hepl01.cblue.be/~user124/dw_sept/cvjuin/)
+    - [BlablaCar, site original dont est inspiré le CV]() : N.B. Le design du site a beaucoup changé => copie d'écran
+
+### Selon Gilles Delmotte (2017-2018)
+
+- Gilles Delmotte
+    - [CV](http://hepl01.cblue.be/~user120/dw/cv/)
+    - [Dribbble, site original dont est inspiré le CV](https://dribbble.com/)
+
+### Selon Cédric Müller (2017-2018)
+
+- [page du pojet sur le portfolio](https://www.mullercedric.com/projets/cv-sous-la-forme-dun-site-existant/)
+- [CV](https://www.mullercedric.com/cv/)
+- [Encyclopédie de Harry Potter](https://www.encyclopedie-hp.org/monde-magique/sorciers/cedric-diggory/) : Choisir une encyclopédie comme référence n'est pas anodin. En effet, je me suis dit qu'il serait facile d'intégrer mes informations sur un site donc le but premier est de donner des informations sur des personnages, des lieux, etc. Appréciant l'univers d'Harry Potter, je me suis naturellement dirigé vers une encyclopédie de cet univers. Avec du recul, je me suis rendu compte de beaucoup de petit problème que je n'avais pas remarqué lors de mon choix. Ca faisait donc également partie de mon travail d'en corriger une partie (réduire le nombre de couleurs utilisées, rendre le code valide, etc.)
 
 ### Selon Pauline Viroux
 
 La consigne était de réaliser notre CV en reprenant le design d’un site connu. J’ai choisi le site de voyage Travelbird.
 
 J’ai intégré mon CV dans une de leur page « produit ». Le travail n’était pas tellement difficile, le tout était de bien analyser chaque élément de la page afin de le reproduire au détail près.
-
-### Selon Stéphanie Cloutier
-
-Le CV a été notre premier projet pour le cours de Design Web. Le but était de copier la page d’un site web, pour ma part celle d’une fiche de Pokémon du site du même nom. Par la suite, nous devions remplir la page avec nos informations comme s’il s’agissait de notre CV.
 
 ### Selon Anne Remacle
 
@@ -67,10 +105,6 @@ Pour commencer, il faut un contenu. Du coup, création du squelette de mon cv en
 
 Ce ne fut pas une tâche facile de coller au design original, mais grâce aux extensions ajoutées à mes différents navigateurs, j’ai été capable de récupérer les différentes mesures nécessaires et pour un premier vrai projet, je suis plutôt contente du résultat.
 
-### Selon Képhren Simonis
-
-Le but de l’exercice était de copier le canvas d’un site existant en y intégrant nos informations personnelles pour en faire notre CV. Il n’est pas question ici de copier le code et de modifier les informations. Il faut analyser le site, essayer de comprendre comment sont codés les différents éléments et enfin créer sont propre code et appliquer l’analyse préalable du site officiel pour que notre CV y ressemble comme 2 gouttes d’eau.
-
 
 ## Exemples
 
@@ -78,18 +112,8 @@ Le but de l’exercice était de copier le canvas d’un site existant en y int�
 
 ### 2017-2018
 
-#### TB
+#### Autres
 
-- Charlotte Toussaint
-    - [CV](http://hepl01.cblue.be/~user124/dw_sept/cvjuin/)
-    - [BlablaCar, site original dont est inspiré le CV]() : N.B. Le design du site a beaucoup changé => copie d'écran
-- Gilles Delmotte
-    - [CV](http://hepl01.cblue.be/~user120/dw/cv/)
-    - [Dribbble, site original dont est inspiré le CV](https://dribbble.com/)
-- Cédric Müller : 
-    - [page du pojet sur le portfolio](https://www.mullercedric.com/projets/cv-sous-la-forme-dun-site-existant/)
-    - [CV](https://www.mullercedric.com/cv/)
-    - [Encyclopédie de Harry Potter](https://www.encyclopedie-hp.org/monde-magique/sorciers/cedric-diggory/) : Choisir une encyclopédie comme référence n'est pas anodin. En effet, je me suis dit qu'il serait facile d'intégrer mes informations sur un site donc le but premier est de donner des informations sur des personnages, des lieux, etc. Appréciant l'univers d'Harry Potter, je me suis naturellement dirigé vers une encyclopédie de cet univers. Avec du recul, je me suis rendu compte de beaucoup de petit problème que je n'avais pas remarqué lors de mon choix. Ca faisait donc également partie de mon travail d'en corriger une partie (réduire le nombre de couleurs utilisées, rendre le code valide, etc.)
 - Marvin Lemarchand : 
     - http://hepl01.cblue.be/~user121/cv/
     - https://www.leforem.be/
@@ -98,8 +122,6 @@ Le but de l’exercice était de copier le canvas d’un site existant en y int�
     - [CV](http://felixgason.com/cv/)
 
 ### 2015-2016 :
-
-#### TB
 
 #### Autres 
 
@@ -121,16 +143,6 @@ Le but de l’exercice était de copier le canvas d’un site existant en y int�
 
 #### TB
 
-- Stéphanie Cloutier
-    - [Portfolio de Stéphanie Cloutier](http://stephanie.cloutier.pro)
-    - [page du pojet sur portfolio](http://stephanie.cloutier.pro/project/cv/) 
-    - [CV](http://stephanie.cloutier.pro/cv/)
-    - [Pokemon, site original dont est inspiré le CV](https://www.pokemon.com/fr/pokedex/herbizarre)
-- Képhren Simonis
-    - [Portfolio de Képhren Simonis](http://hepl01.cblue.be/~user19/dw/portfoliowp)
-    - [page du pojet sur portfolio](http://hepl01.cblue.be/~user19/dw/portfoliowp/projets/cv-skype/)
-    - [CV](http://hepl01.cblue.be/~user19/dw/cv/)
-    - [Skype, site original dont est inspiré le CV](https://www.skype.com/fr/) N.B. : il a changé…
 - Éric Closquet
     - [Portfolio de Éric Closquet](http://eric-closquet.be)
     - [page du pojet sur portfolio](http://eric-closquet.be/cv-sur-design-existant/)
