@@ -14,12 +14,6 @@
 
 https://philipwalton.github.io/solved-by-flexbox/
 
-----
-
-Gadgets d'interface en JS :
-- Galerie photos : https://www.autoscout24.be/fr/offres/-1e01f857-2ed5-104b-e053-e350040ac52f?asrc=ha
-- Menu qui reste fixe au scroll : https://www.autoscout24.be/fr/offres/-1e01f857-2ed5-104b-e053-e350040ac52f?asrc=ha
-
 #  Checklist
 
 - [x] Mettre vos lunettes : "jeu des 7 erreurs"
@@ -81,7 +75,3 @@ Détail complet de la méthode [ici](http://www.anysurfer.be/fr/laccessibilite/m
 
 - [CSS évolutif](https://davidl.fr/blog/css-evolutif.html) : Votre CSS est malade - Astuces et bonnes pratiques pour un CSS évolutif, traduction partielle de conseils de Chris Coyier
 - [10 ressources sur les couleurs pour le web design](http://speckyboy.com/2008/01/13/top-10-resources-to-the-perfect-color-scheme-for-web-designers/)
-
-
-
-- liens postés par François sur Slack 
