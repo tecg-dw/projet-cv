@@ -12,8 +12,6 @@
 5. Optimisation en général :
    + vérifier optimisation du site avec GTmetrix
 
-https://philipwalton.github.io/solved-by-flexbox/
-
 #  Checklist
 
 - [x] Mettre vos lunettes : "jeu des 7 erreurs"
